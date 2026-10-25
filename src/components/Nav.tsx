@@ -10,6 +10,7 @@ const LINKS = [
   { href: '/routines', label: 'روتین‌ها' },
   { href: '/projects', label: 'پروژه‌ها' },
   { href: '/weekly', label: 'مرور هفتگی' },
+  { href: '/chat', label: 'دستیار هوشمند' },
   { href: '/backup', label: 'بکاپ' },
 ];
 
